@@ -1,3 +1,11 @@
+Notes
+Which countries and athletes have won the most medals at the Olympic games?
+https://www.kaggle.com/the-guardian/olympic-games
+
+
+
+
+
 setwd("~/Desktop/datenanalyse/Final Report")
 olympic <- read.csv("~/Desktop/datenanalyse/Final Report/data/athlete_events.csv")
 
